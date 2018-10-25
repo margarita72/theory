@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" media="screen" href="css/style.css" />
 	<title>Метод</title>
 </head>
 <body>

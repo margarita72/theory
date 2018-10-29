@@ -92,12 +92,12 @@
 				echo "Здесь проверяется возраст из метода getAge"."<br>";
 
 				//return $this-> salary = $this->getAge();
-				if ($this->result = $this->getAge()>100) {
+				if ($this->result == $this->getAge()>100) {
 					echo "Вот это долгожитель" ."<br>";
 					
 				}
 
-					elseif ($this->result = $this->getAge() < 1) {
+					elseif ($this->result == $this->getAge() < 1) {
 
 						echo "Человек еще не родился";
 						

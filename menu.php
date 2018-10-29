@@ -14,8 +14,15 @@
         </li>
         <li><a href="multiple_values.php">несколько значений</a></li>
         <li><a href="construct.php">Конструкторы</a></li>
-        <li><a href="inheritance.php">Наследование</a></li>
+        <li><a href="inheritance1.php">Наследование</a></li>
+
         <li><a href="method.php">Методы и объекты</a></li>
+        <li><a href="#">Работа с куками и сессиями</a>
+			<ul>
+				<li><a href="mysession.php">Сессии</a></li>
+				<li><a href="mykookie.php">Куки</a></li>
+			</ul>
+        </li>
         
     </ul>
 </nav>

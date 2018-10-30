@@ -2,12 +2,18 @@
 	<nav>
     <ul>
         <li><a href="index.php">Главная</a></li>
+        <li><a href="#">Подключение к бд</a>
+			<ul>
+				<li><a href="login.php">Авторизироваться</a></li>
+				<li><a href="connection.php">Регестрироваться</a></li>
+			</ul>
+        </li>
         <li><a href="#">Методы передачи данных</a>
 
            
             <ul>
                 <li><a href="metodpost.php">метод post</a></li>
-                <li><a href="oprabot.php">метод post</a></li>
+                <li><a href="oprabot.php">метод get</a></li>
            </ul>
             <!-- First Tier Drop Down ends -->
 
@@ -23,6 +29,8 @@
 				<li><a href="mykookie.php">Куки</a></li>
 			</ul>
         </li>
+        
+        
         
     </ul>
 </nav>
